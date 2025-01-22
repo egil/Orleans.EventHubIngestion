@@ -1,4 +1,4 @@
-# Fast ingestion of events from Azure Event Hub
+# Fast? ingestion of events from Azure Event Hub
 
 If you have a grain that should receive events from Azure Event Hub, e.g.:
 
